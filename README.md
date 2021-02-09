@@ -10,7 +10,7 @@
 <b>Download Link</b>
 - <a href="https://yadi.sk/d/pAPsGktXiESyMA">C-Sharp-Memory-Game</a>
 
-<b>Destek</b>
+## <b>Destek</b>
 Herhangi bir sorun, geri bildirim veya özellik talebi için omerfaruk56@live.com adresine bir e-posta gönderin, github'da bir Issues oluşturun
 <br>
 ![Alt text](http://img.youtube.com/vi/dQjb8yx4WTE/0.jpg?raw=true "Title")
