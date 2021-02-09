@@ -8,7 +8,7 @@
 - <a href="https://www.youtube.com/watch?v=dQjb8yx4WTE&t=6s&ab_channel=%C3%96merFarukEllialt%C4%B1">C-Sharp-Memory-Game</a>
 
 <b>Download Link</b>
-- <a href="https://yadi.sk/d/pAPsGktXiESyMA">C-Sharp-Memory-Game</a>
+- <a href="https://yadi.sk/d/pAPsGktXiESyMA">click here</a>
 
 ## <b>Destek</b>
 Herhangi bir sorun, geri bildirim veya özellik talebi için omerfaruk56@live.com adresine bir e-posta gönderin, github'da bir Issues oluşturun
